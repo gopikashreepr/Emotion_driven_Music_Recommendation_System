@@ -70,3 +70,41 @@ A deep learning-based system that detects emotions from facial images using a fi
 3. Install required dependencies:
    ```bash
    pip install tensorflow opencv-python matplotlib
+4. Run the notebook cells to:
+
+- ✅ Load the model
+- ✅ Predict emotion from an image
+- ✅ Display mapped music suggestion
+
+
+## 🛠️ Tools & Libraries
+
+- Python
+- TensorFlow / Keras
+- OpenCV
+- Matplotlib
+- NumPy
+- Pandas
+
+
+## 📚 Academic Submission Includes
+
+- ✔️ Final research paper (IEEE format)
+- ✔️ Final PPT and mini-report
+- ✔️ Chapter-wise full report
+- ✔️ Turnitin proof and conference participation
+- ✔️ Referenced base papers
+
+
+## 🙌 Contributors
+
+- **Gopikashree PR** – B.Tech Artificial Intelligence & Data Science  
+
+
+## 📬 Contact
+
+**Gopikashree PR**  
+[GitHub](https://github.com/gopikashreepr)  
+[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/gopikashree-pr/))  
+[Email](mailto:gopikassakipog@gmail.com)
+
