@@ -14,11 +14,17 @@ A deep learning-based system that detects emotions from facial images using a fi
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
-emotion-music-recommender/ │ ├── base documents/ # Reference research papers (6–7) ├── paper and ppt/ # Final research paper, PPT & report ├── proof/ # Conference certificate, Turnitin report, mail ├── report/ # Full report split into multiple PDFs ├── required images/ # Images used in paper, report, and PPT ├── src/ # Source code and dataset │ └── emotion-based-music-recommender-resnet50v2.ipynb └── README.md # Project documentation
+- `base documents/` – Reference research papers (6–7 used for literature review)
+- `paper and ppt/` – Final research paper (IEEE format), project PPT, and summary report
+- `proof/` – Turnitin plagiarism report, conference certificate, and email confirmation
+- `report/` – Full project report broken into multiple PDFs (7–8 chapters)
+- `required images/` – All visuals used in the paper, PPT, and report
+- `src/` – Python source code and dataset
+  - `emotion-based-music-recommender-resnet50v2.ipynb` – Jupyter notebook with model and recommendation system
+- `README.md` – This documentation file
 
----
 
 ## 🧪 Model Details
 
