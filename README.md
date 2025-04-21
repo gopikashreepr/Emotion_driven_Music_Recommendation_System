@@ -105,6 +105,6 @@ A deep learning-based system that detects emotions from facial images using a fi
 
 **Gopikashree PR**  
 [GitHub](https://github.com/gopikashreepr)  
-[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/gopikashree-pr/))  
+[LinkedIn](https://linkedin.com/in/your-link](https://www.linkedin.com/in/gopikashree-pr/)  
 [Email](mailto:gopikassakipog@gmail.com)
 
